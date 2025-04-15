@@ -1,1 +1,1 @@
-git add README.md
+#Execicios Aula de logica - SENAC
