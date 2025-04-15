@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "pessoa-pode-votar/1.0.0": {
+        "runtime": {
+          "pessoa-pode-votar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pessoa-pode-votar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

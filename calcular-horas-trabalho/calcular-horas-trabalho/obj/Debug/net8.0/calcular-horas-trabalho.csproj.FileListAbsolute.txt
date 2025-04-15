@@ -1,0 +1,14 @@
+C:\Users\vinicius.wcrocha\source\repos\calcular-horas-trabalho\calcular-horas-trabalho\obj\Debug\net8.0\calcular-horas-trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.wcrocha\source\repos\calcular-horas-trabalho\calcular-horas-trabalho\obj\Debug\net8.0\calcular-horas-trabalho.AssemblyInfoInputs.cache
+C:\Users\vinicius.wcrocha\source\repos\calcular-horas-trabalho\calcular-horas-trabalho\obj\Debug\net8.0\calcular-horas-trabalho.AssemblyInfo.cs
+C:\Users\vinicius.wcrocha\source\repos\calcular-horas-trabalho\calcular-horas-trabalho\obj\Debug\net8.0\calcular-horas-trabalho.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.wcrocha\source\repos\calcular-horas-trabalho\calcular-horas-trabalho\bin\Debug\net8.0\calcular-horas-trabalho.exe
+C:\Users\vinicius.wcrocha\source\repos\calcular-horas-trabalho\calcular-horas-trabalho\bin\Debug\net8.0\calcular-horas-trabalho.deps.json
+C:\Users\vinicius.wcrocha\source\repos\calcular-horas-trabalho\calcular-horas-trabalho\bin\Debug\net8.0\calcular-horas-trabalho.runtimeconfig.json
+C:\Users\vinicius.wcrocha\source\repos\calcular-horas-trabalho\calcular-horas-trabalho\bin\Debug\net8.0\calcular-horas-trabalho.dll
+C:\Users\vinicius.wcrocha\source\repos\calcular-horas-trabalho\calcular-horas-trabalho\bin\Debug\net8.0\calcular-horas-trabalho.pdb
+C:\Users\vinicius.wcrocha\source\repos\calcular-horas-trabalho\calcular-horas-trabalho\obj\Debug\net8.0\calcular-horas-trabalho.dll
+C:\Users\vinicius.wcrocha\source\repos\calcular-horas-trabalho\calcular-horas-trabalho\obj\Debug\net8.0\refint\calcular-horas-trabalho.dll
+C:\Users\vinicius.wcrocha\source\repos\calcular-horas-trabalho\calcular-horas-trabalho\obj\Debug\net8.0\calcular-horas-trabalho.pdb
+C:\Users\vinicius.wcrocha\source\repos\calcular-horas-trabalho\calcular-horas-trabalho\obj\Debug\net8.0\calcular-horas-trabalho.genruntimeconfig.cache
+C:\Users\vinicius.wcrocha\source\repos\calcular-horas-trabalho\calcular-horas-trabalho\obj\Debug\net8.0\ref\calcular-horas-trabalho.dll

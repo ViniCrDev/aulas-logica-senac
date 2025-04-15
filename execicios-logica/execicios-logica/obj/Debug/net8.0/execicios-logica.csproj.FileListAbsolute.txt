@@ -1,0 +1,4 @@
+C:\Users\vinicius.wcrocha\source\repos\execicios-logica\execicios-logica\obj\Debug\net8.0\execicios-logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.wcrocha\source\repos\execicios-logica\execicios-logica\obj\Debug\net8.0\execicios-logica.AssemblyInfoInputs.cache
+C:\Users\vinicius.wcrocha\source\repos\execicios-logica\execicios-logica\obj\Debug\net8.0\execicios-logica.AssemblyInfo.cs
+C:\Users\vinicius.wcrocha\source\repos\execicios-logica\execicios-logica\obj\Debug\net8.0\execicios-logica.csproj.CoreCompileInputs.cache

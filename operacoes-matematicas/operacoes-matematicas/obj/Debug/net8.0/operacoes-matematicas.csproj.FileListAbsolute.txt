@@ -1,0 +1,14 @@
+C:\Users\vinicius.wcrocha\source\repos\operacoes-matematicas\operacoes-matematicas\obj\Debug\net8.0\operacoes-matematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.wcrocha\source\repos\operacoes-matematicas\operacoes-matematicas\obj\Debug\net8.0\operacoes-matematicas.AssemblyInfoInputs.cache
+C:\Users\vinicius.wcrocha\source\repos\operacoes-matematicas\operacoes-matematicas\obj\Debug\net8.0\operacoes-matematicas.AssemblyInfo.cs
+C:\Users\vinicius.wcrocha\source\repos\operacoes-matematicas\operacoes-matematicas\obj\Debug\net8.0\operacoes-matematicas.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.wcrocha\source\repos\operacoes-matematicas\operacoes-matematicas\bin\Debug\net8.0\operacoes-matematicas.exe
+C:\Users\vinicius.wcrocha\source\repos\operacoes-matematicas\operacoes-matematicas\bin\Debug\net8.0\operacoes-matematicas.deps.json
+C:\Users\vinicius.wcrocha\source\repos\operacoes-matematicas\operacoes-matematicas\bin\Debug\net8.0\operacoes-matematicas.runtimeconfig.json
+C:\Users\vinicius.wcrocha\source\repos\operacoes-matematicas\operacoes-matematicas\bin\Debug\net8.0\operacoes-matematicas.dll
+C:\Users\vinicius.wcrocha\source\repos\operacoes-matematicas\operacoes-matematicas\bin\Debug\net8.0\operacoes-matematicas.pdb
+C:\Users\vinicius.wcrocha\source\repos\operacoes-matematicas\operacoes-matematicas\obj\Debug\net8.0\operacoes-matematicas.dll
+C:\Users\vinicius.wcrocha\source\repos\operacoes-matematicas\operacoes-matematicas\obj\Debug\net8.0\refint\operacoes-matematicas.dll
+C:\Users\vinicius.wcrocha\source\repos\operacoes-matematicas\operacoes-matematicas\obj\Debug\net8.0\operacoes-matematicas.pdb
+C:\Users\vinicius.wcrocha\source\repos\operacoes-matematicas\operacoes-matematicas\obj\Debug\net8.0\operacoes-matematicas.genruntimeconfig.cache
+C:\Users\vinicius.wcrocha\source\repos\operacoes-matematicas\operacoes-matematicas\obj\Debug\net8.0\ref\operacoes-matematicas.dll
