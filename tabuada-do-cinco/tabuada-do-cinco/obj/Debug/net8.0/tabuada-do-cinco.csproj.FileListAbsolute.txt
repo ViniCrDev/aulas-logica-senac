@@ -1,0 +1,15 @@
+C:\Users\vinicius.wcrocha\source\repos\tabuada-do-cinco\tabuada-do-cinco\bin\Debug\net8.0\tabuada-do-cinco.exe
+C:\Users\vinicius.wcrocha\source\repos\tabuada-do-cinco\tabuada-do-cinco\bin\Debug\net8.0\tabuada-do-cinco.deps.json
+C:\Users\vinicius.wcrocha\source\repos\tabuada-do-cinco\tabuada-do-cinco\bin\Debug\net8.0\tabuada-do-cinco.runtimeconfig.json
+C:\Users\vinicius.wcrocha\source\repos\tabuada-do-cinco\tabuada-do-cinco\bin\Debug\net8.0\tabuada-do-cinco.dll
+C:\Users\vinicius.wcrocha\source\repos\tabuada-do-cinco\tabuada-do-cinco\bin\Debug\net8.0\tabuada-do-cinco.pdb
+C:\Users\vinicius.wcrocha\source\repos\tabuada-do-cinco\tabuada-do-cinco\obj\Debug\net8.0\tabuada-do-cinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.wcrocha\source\repos\tabuada-do-cinco\tabuada-do-cinco\obj\Debug\net8.0\tabuada-do-cinco.AssemblyInfoInputs.cache
+C:\Users\vinicius.wcrocha\source\repos\tabuada-do-cinco\tabuada-do-cinco\obj\Debug\net8.0\tabuada-do-cinco.AssemblyInfo.cs
+C:\Users\vinicius.wcrocha\source\repos\tabuada-do-cinco\tabuada-do-cinco\obj\Debug\net8.0\tabuada-do-cinco.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.wcrocha\source\repos\tabuada-do-cinco\tabuada-do-cinco\obj\Debug\net8.0\tabuada-do-cinco.sourcelink.json
+C:\Users\vinicius.wcrocha\source\repos\tabuada-do-cinco\tabuada-do-cinco\obj\Debug\net8.0\tabuada-do-cinco.dll
+C:\Users\vinicius.wcrocha\source\repos\tabuada-do-cinco\tabuada-do-cinco\obj\Debug\net8.0\refint\tabuada-do-cinco.dll
+C:\Users\vinicius.wcrocha\source\repos\tabuada-do-cinco\tabuada-do-cinco\obj\Debug\net8.0\tabuada-do-cinco.pdb
+C:\Users\vinicius.wcrocha\source\repos\tabuada-do-cinco\tabuada-do-cinco\obj\Debug\net8.0\tabuada-do-cinco.genruntimeconfig.cache
+C:\Users\vinicius.wcrocha\source\repos\tabuada-do-cinco\tabuada-do-cinco\obj\Debug\net8.0\ref\tabuada-do-cinco.dll

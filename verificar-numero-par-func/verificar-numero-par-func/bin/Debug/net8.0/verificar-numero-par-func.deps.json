@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "verificar-numero-par-func/1.0.0": {
+        "runtime": {
+          "verificar-numero-par-func.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "verificar-numero-par-func/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

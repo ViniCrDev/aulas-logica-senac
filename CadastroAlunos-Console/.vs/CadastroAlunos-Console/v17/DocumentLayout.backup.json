@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinicius.wcrocha\\source\\repos\\CadastroAlunos-Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7800DC-27A5-4C8B-A390-1265B0789131}|CadastroAlunos-Console\\CadastroAlunos-Console.csproj|c:\\users\\vinicius.wcrocha\\source\\repos\\cadastroalunos-console\\cadastroalunos-console\\controller\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7800DC-27A5-4C8B-A390-1265B0789131}|CadastroAlunos-Console\\CadastroAlunos-Console.csproj|solutionrelative:cadastroalunos-console\\controller\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7800DC-27A5-4C8B-A390-1265B0789131}|CadastroAlunos-Console\\CadastroAlunos-Console.csproj|c:\\users\\vinicius.wcrocha\\source\\repos\\cadastroalunos-console\\cadastroalunos-console\\views\\alunoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7800DC-27A5-4C8B-A390-1265B0789131}|CadastroAlunos-Console\\CadastroAlunos-Console.csproj|solutionrelative:cadastroalunos-console\\views\\alunoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7800DC-27A5-4C8B-A390-1265B0789131}|CadastroAlunos-Console\\CadastroAlunos-Console.csproj|c:\\users\\vinicius.wcrocha\\source\\repos\\cadastroalunos-console\\cadastroalunos-console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7800DC-27A5-4C8B-A390-1265B0789131}|CadastroAlunos-Console\\CadastroAlunos-Console.csproj|solutionrelative:cadastroalunos-console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7800DC-27A5-4C8B-A390-1265B0789131}|CadastroAlunos-Console\\CadastroAlunos-Console.csproj|c:\\users\\vinicius.wcrocha\\source\\repos\\cadastroalunos-console\\cadastroalunos-console\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7800DC-27A5-4C8B-A390-1265B0789131}|CadastroAlunos-Console\\CadastroAlunos-Console.csproj|solutionrelative:cadastroalunos-console\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius.wcrocha\\source\\repos\\CadastroAlunos-Console\\CadastroAlunos-Console\\Program.cs",
+              "RelativeDocumentMoniker": "CadastroAlunos-Console\\Program.cs",
+              "ToolTip": "C:\\Users\\vinicius.wcrocha\\source\\repos\\CadastroAlunos-Console\\CadastroAlunos-Console\\Program.cs",
+              "RelativeToolTip": "CadastroAlunos-Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:25:33.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius.wcrocha\\source\\repos\\CadastroAlunos-Console\\CadastroAlunos-Console\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "CadastroAlunos-Console\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\vinicius.wcrocha\\source\\repos\\CadastroAlunos-Console\\CadastroAlunos-Console\\Models\\Aluno.cs",
+              "RelativeToolTip": "CadastroAlunos-Console\\Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:25:29.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius.wcrocha\\source\\repos\\CadastroAlunos-Console\\CadastroAlunos-Console\\Controller\\AlunoController.cs",
+              "RelativeDocumentMoniker": "CadastroAlunos-Console\\Controller\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\vinicius.wcrocha\\source\\repos\\CadastroAlunos-Console\\CadastroAlunos-Console\\Controller\\AlunoController.cs",
+              "RelativeToolTip": "CadastroAlunos-Console\\Controller\\AlunoController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:25:26.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlunoView.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius.wcrocha\\source\\repos\\CadastroAlunos-Console\\CadastroAlunos-Console\\Views\\AlunoView.cs",
+              "RelativeDocumentMoniker": "CadastroAlunos-Console\\Views\\AlunoView.cs",
+              "ToolTip": "C:\\Users\\vinicius.wcrocha\\source\\repos\\CadastroAlunos-Console\\CadastroAlunos-Console\\Views\\AlunoView.cs",
+              "RelativeToolTip": "CadastroAlunos-Console\\Views\\AlunoView.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswFcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T01:21:38.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

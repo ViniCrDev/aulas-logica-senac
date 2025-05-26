@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "numeros-pares-de-um-a-cinqueta/1.0.0": {
+        "runtime": {
+          "numeros-pares-de-um-a-cinqueta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "numeros-pares-de-um-a-cinqueta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

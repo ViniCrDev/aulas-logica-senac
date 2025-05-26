@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "cadastro-alunos-idade/1.0.0": {
+        "runtime": {
+          "cadastro-alunos-idade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cadastro-alunos-idade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

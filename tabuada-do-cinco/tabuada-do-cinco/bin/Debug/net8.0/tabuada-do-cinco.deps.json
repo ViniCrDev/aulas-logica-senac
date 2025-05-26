@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tabuada-do-cinco/1.0.0": {
+        "runtime": {
+          "tabuada-do-cinco.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tabuada-do-cinco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

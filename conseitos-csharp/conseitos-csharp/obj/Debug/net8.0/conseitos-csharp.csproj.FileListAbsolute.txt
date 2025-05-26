@@ -1,0 +1,15 @@
+C:\Users\vinicius.wcrocha\source\repos\conseitos-Csharp\conseitos-csharp\bin\Debug\net8.0\conseitos-csharp.exe
+C:\Users\vinicius.wcrocha\source\repos\conseitos-Csharp\conseitos-csharp\bin\Debug\net8.0\conseitos-csharp.deps.json
+C:\Users\vinicius.wcrocha\source\repos\conseitos-Csharp\conseitos-csharp\bin\Debug\net8.0\conseitos-csharp.runtimeconfig.json
+C:\Users\vinicius.wcrocha\source\repos\conseitos-Csharp\conseitos-csharp\bin\Debug\net8.0\conseitos-csharp.dll
+C:\Users\vinicius.wcrocha\source\repos\conseitos-Csharp\conseitos-csharp\bin\Debug\net8.0\conseitos-csharp.pdb
+C:\Users\vinicius.wcrocha\source\repos\conseitos-Csharp\conseitos-csharp\obj\Debug\net8.0\conseitos-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.wcrocha\source\repos\conseitos-Csharp\conseitos-csharp\obj\Debug\net8.0\conseitos-csharp.AssemblyInfoInputs.cache
+C:\Users\vinicius.wcrocha\source\repos\conseitos-Csharp\conseitos-csharp\obj\Debug\net8.0\conseitos-csharp.AssemblyInfo.cs
+C:\Users\vinicius.wcrocha\source\repos\conseitos-Csharp\conseitos-csharp\obj\Debug\net8.0\conseitos-csharp.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.wcrocha\source\repos\conseitos-Csharp\conseitos-csharp\obj\Debug\net8.0\conseitos-csharp.sourcelink.json
+C:\Users\vinicius.wcrocha\source\repos\conseitos-Csharp\conseitos-csharp\obj\Debug\net8.0\conseitos-csharp.dll
+C:\Users\vinicius.wcrocha\source\repos\conseitos-Csharp\conseitos-csharp\obj\Debug\net8.0\refint\conseitos-csharp.dll
+C:\Users\vinicius.wcrocha\source\repos\conseitos-Csharp\conseitos-csharp\obj\Debug\net8.0\conseitos-csharp.pdb
+C:\Users\vinicius.wcrocha\source\repos\conseitos-Csharp\conseitos-csharp\obj\Debug\net8.0\conseitos-csharp.genruntimeconfig.cache
+C:\Users\vinicius.wcrocha\source\repos\conseitos-Csharp\conseitos-csharp\obj\Debug\net8.0\ref\conseitos-csharp.dll

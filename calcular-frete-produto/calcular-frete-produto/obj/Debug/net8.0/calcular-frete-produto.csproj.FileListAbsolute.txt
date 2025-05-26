@@ -1,0 +1,15 @@
+C:\Users\vinicius.wcrocha\source\repos\calcular-frete-produto\calcular-frete-produto\bin\Debug\net8.0\calcular-frete-produto.exe
+C:\Users\vinicius.wcrocha\source\repos\calcular-frete-produto\calcular-frete-produto\bin\Debug\net8.0\calcular-frete-produto.deps.json
+C:\Users\vinicius.wcrocha\source\repos\calcular-frete-produto\calcular-frete-produto\bin\Debug\net8.0\calcular-frete-produto.runtimeconfig.json
+C:\Users\vinicius.wcrocha\source\repos\calcular-frete-produto\calcular-frete-produto\bin\Debug\net8.0\calcular-frete-produto.dll
+C:\Users\vinicius.wcrocha\source\repos\calcular-frete-produto\calcular-frete-produto\bin\Debug\net8.0\calcular-frete-produto.pdb
+C:\Users\vinicius.wcrocha\source\repos\calcular-frete-produto\calcular-frete-produto\obj\Debug\net8.0\calcular-frete-produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.wcrocha\source\repos\calcular-frete-produto\calcular-frete-produto\obj\Debug\net8.0\calcular-frete-produto.AssemblyInfoInputs.cache
+C:\Users\vinicius.wcrocha\source\repos\calcular-frete-produto\calcular-frete-produto\obj\Debug\net8.0\calcular-frete-produto.AssemblyInfo.cs
+C:\Users\vinicius.wcrocha\source\repos\calcular-frete-produto\calcular-frete-produto\obj\Debug\net8.0\calcular-frete-produto.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.wcrocha\source\repos\calcular-frete-produto\calcular-frete-produto\obj\Debug\net8.0\calcular-frete-produto.sourcelink.json
+C:\Users\vinicius.wcrocha\source\repos\calcular-frete-produto\calcular-frete-produto\obj\Debug\net8.0\calcular-frete-produto.dll
+C:\Users\vinicius.wcrocha\source\repos\calcular-frete-produto\calcular-frete-produto\obj\Debug\net8.0\refint\calcular-frete-produto.dll
+C:\Users\vinicius.wcrocha\source\repos\calcular-frete-produto\calcular-frete-produto\obj\Debug\net8.0\calcular-frete-produto.pdb
+C:\Users\vinicius.wcrocha\source\repos\calcular-frete-produto\calcular-frete-produto\obj\Debug\net8.0\calcular-frete-produto.genruntimeconfig.cache
+C:\Users\vinicius.wcrocha\source\repos\calcular-frete-produto\calcular-frete-produto\obj\Debug\net8.0\ref\calcular-frete-produto.dll

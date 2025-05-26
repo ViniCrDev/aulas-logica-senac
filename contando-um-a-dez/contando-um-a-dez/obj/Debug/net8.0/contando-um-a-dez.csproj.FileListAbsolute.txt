@@ -1,0 +1,15 @@
+C:\Users\vinicius.wcrocha\source\repos\contando-um-a-dez\contando-um-a-dez\bin\Debug\net8.0\contando-um-a-dez.exe
+C:\Users\vinicius.wcrocha\source\repos\contando-um-a-dez\contando-um-a-dez\bin\Debug\net8.0\contando-um-a-dez.deps.json
+C:\Users\vinicius.wcrocha\source\repos\contando-um-a-dez\contando-um-a-dez\bin\Debug\net8.0\contando-um-a-dez.runtimeconfig.json
+C:\Users\vinicius.wcrocha\source\repos\contando-um-a-dez\contando-um-a-dez\bin\Debug\net8.0\contando-um-a-dez.dll
+C:\Users\vinicius.wcrocha\source\repos\contando-um-a-dez\contando-um-a-dez\bin\Debug\net8.0\contando-um-a-dez.pdb
+C:\Users\vinicius.wcrocha\source\repos\contando-um-a-dez\contando-um-a-dez\obj\Debug\net8.0\contando-um-a-dez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.wcrocha\source\repos\contando-um-a-dez\contando-um-a-dez\obj\Debug\net8.0\contando-um-a-dez.AssemblyInfoInputs.cache
+C:\Users\vinicius.wcrocha\source\repos\contando-um-a-dez\contando-um-a-dez\obj\Debug\net8.0\contando-um-a-dez.AssemblyInfo.cs
+C:\Users\vinicius.wcrocha\source\repos\contando-um-a-dez\contando-um-a-dez\obj\Debug\net8.0\contando-um-a-dez.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.wcrocha\source\repos\contando-um-a-dez\contando-um-a-dez\obj\Debug\net8.0\contando-um-a-dez.sourcelink.json
+C:\Users\vinicius.wcrocha\source\repos\contando-um-a-dez\contando-um-a-dez\obj\Debug\net8.0\contando-um-a-dez.dll
+C:\Users\vinicius.wcrocha\source\repos\contando-um-a-dez\contando-um-a-dez\obj\Debug\net8.0\refint\contando-um-a-dez.dll
+C:\Users\vinicius.wcrocha\source\repos\contando-um-a-dez\contando-um-a-dez\obj\Debug\net8.0\contando-um-a-dez.pdb
+C:\Users\vinicius.wcrocha\source\repos\contando-um-a-dez\contando-um-a-dez\obj\Debug\net8.0\contando-um-a-dez.genruntimeconfig.cache
+C:\Users\vinicius.wcrocha\source\repos\contando-um-a-dez\contando-um-a-dez\obj\Debug\net8.0\ref\contando-um-a-dez.dll

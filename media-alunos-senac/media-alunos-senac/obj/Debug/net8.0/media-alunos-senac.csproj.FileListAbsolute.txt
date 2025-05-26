@@ -1,0 +1,15 @@
+C:\Users\vinicius.wcrocha\source\repos\media-alunos-senac\media-alunos-senac\bin\Debug\net8.0\media-alunos-senac.exe
+C:\Users\vinicius.wcrocha\source\repos\media-alunos-senac\media-alunos-senac\bin\Debug\net8.0\media-alunos-senac.deps.json
+C:\Users\vinicius.wcrocha\source\repos\media-alunos-senac\media-alunos-senac\bin\Debug\net8.0\media-alunos-senac.runtimeconfig.json
+C:\Users\vinicius.wcrocha\source\repos\media-alunos-senac\media-alunos-senac\bin\Debug\net8.0\media-alunos-senac.dll
+C:\Users\vinicius.wcrocha\source\repos\media-alunos-senac\media-alunos-senac\bin\Debug\net8.0\media-alunos-senac.pdb
+C:\Users\vinicius.wcrocha\source\repos\media-alunos-senac\media-alunos-senac\obj\Debug\net8.0\media-alunos-senac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.wcrocha\source\repos\media-alunos-senac\media-alunos-senac\obj\Debug\net8.0\media-alunos-senac.AssemblyInfoInputs.cache
+C:\Users\vinicius.wcrocha\source\repos\media-alunos-senac\media-alunos-senac\obj\Debug\net8.0\media-alunos-senac.AssemblyInfo.cs
+C:\Users\vinicius.wcrocha\source\repos\media-alunos-senac\media-alunos-senac\obj\Debug\net8.0\media-alunos-senac.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.wcrocha\source\repos\media-alunos-senac\media-alunos-senac\obj\Debug\net8.0\media-alunos-senac.sourcelink.json
+C:\Users\vinicius.wcrocha\source\repos\media-alunos-senac\media-alunos-senac\obj\Debug\net8.0\media-alunos-senac.dll
+C:\Users\vinicius.wcrocha\source\repos\media-alunos-senac\media-alunos-senac\obj\Debug\net8.0\refint\media-alunos-senac.dll
+C:\Users\vinicius.wcrocha\source\repos\media-alunos-senac\media-alunos-senac\obj\Debug\net8.0\media-alunos-senac.pdb
+C:\Users\vinicius.wcrocha\source\repos\media-alunos-senac\media-alunos-senac\obj\Debug\net8.0\media-alunos-senac.genruntimeconfig.cache
+C:\Users\vinicius.wcrocha\source\repos\media-alunos-senac\media-alunos-senac\obj\Debug\net8.0\ref\media-alunos-senac.dll

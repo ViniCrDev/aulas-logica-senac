@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "login-tentativa-limitada/1.0.0": {
+        "runtime": {
+          "login-tentativa-limitada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "login-tentativa-limitada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
